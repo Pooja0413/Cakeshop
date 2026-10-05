@@ -1,0 +1,8 @@
+{
+  "name": "Crème & Crumb Artisan Cake Studio",
+  "description": "Handcrafted celebration cakes, bespoke wedding tiers, and French entremets made daily with cultured butter and organic seasonal ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
